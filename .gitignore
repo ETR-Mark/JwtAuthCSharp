@@ -1,0 +1,66 @@
+# Build folders
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio settings
+.vs/
+
+# Rider / JetBrains IDEs
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+*.tlog
+
+# Temporary files
+*.tmp
+*.temp
+
+# ASP.NET files
+appsettings.Development.json
+
+# Entity Framework Core
+Migrations/obj/
+Migrations/bin/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.assets.json
+
+# Auto-generated files
+*.g.*
+*.g.cs
+*.Designer.cs
+
+# HTTP files used for testing (optional)
+*.http
+
+# Environment variables (optional)
+.env
+
+# Publish output
+/publish/
+/out/
+/dist/
+
+# Coverage / testing
+coverage/
+TestResults/
+*.coverage
+*.coveragexml
+
+# OS generated
+.DS_Store
+Thumbs.db
